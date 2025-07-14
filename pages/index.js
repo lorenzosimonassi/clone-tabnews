@@ -30,7 +30,7 @@ function Home() {
           mensalmente.
         </h3>
 
-        <video width="700" height="500" loop autoPlay muted reverse>
+        <video width="700" height="500" loop autoPlay muted>
           <source src="/images/joaovideo.mp4" type="video/mp4" />
         </video>
 
